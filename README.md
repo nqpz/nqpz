@@ -1,3 +1,3 @@
-# NIELS
+# Niels' GitHub Page
 
-Niels.
+See also [git.metanohi.name](https://git.metanohi.name/).
